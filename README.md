@@ -15,7 +15,7 @@ Cevap1
                                          <hr /> [8,11,12,16,21,22]
  
 <hr />
- Cevap2
+ Cevap2<hr />
 2^x=n <hr />
 = logn=> <hr />
  Big-o Gösterimi= O(nlogn)<hr />
