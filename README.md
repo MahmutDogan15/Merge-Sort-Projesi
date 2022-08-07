@@ -18,4 +18,4 @@ Cevap2
 
 
 
-[Mergesort](www.patika.dev)
+[www.patika.dev](www.patika.dev)
